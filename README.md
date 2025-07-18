@@ -17,7 +17,3 @@ The chatbot can engage in conversations, answer queries, and be easily extended 
 - **ChatterBot** (optional for conversational engine)  
 - **Flask / FastAPI** (if running as a web service)  
 - **OpenAI API** (optional, if using GPT for responses)
-
----
-
-## Project Structure
